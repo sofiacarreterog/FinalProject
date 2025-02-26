@@ -16,5 +16,17 @@
         "category_id": 3,
         "description": "Concert tickets",
         "date": "2025-02-25 22:27:12"
+    },
+    {
+        "amount": -35.0,
+        "category_id": 5,
+        "description": "Medical costs",
+        "date": "2025-02-26 14:43:51"
+    },
+    {
+        "amount": 10.0,
+        "category_id": "Income",
+        "description": "Found on the street",
+        "date": "2025-02-26 14:44:03"
     }
 ]
